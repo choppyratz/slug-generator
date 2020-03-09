@@ -1,5 +1,4 @@
 <?php 
-$slug;
 function slug_generator($str)
 {
 	$forbidden_symbols = array('/',',','<','>','.','"',
